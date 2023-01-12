@@ -1,6 +1,6 @@
 ### Hi Everybody 👋
 
-## I'm Camila,Programming Student 🎓
+## I'm Camila, Programming Student 🎓
 
 ### 💻 &nbsp;About Me 
 
