@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.-->
-- 🎓 &nbsp; Studying Full-Stack -TECHNICAL SCHOOL -São Paulo.
+- 🎓 &nbsp; Studying Full-Stack -TECHNICAL SCHOOL DNC -São Paulo.
 
 
 ### 🛠 &nbsp;Tech Stack
